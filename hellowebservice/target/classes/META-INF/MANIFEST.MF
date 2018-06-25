@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: hellowebservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Anuja Bawaskar
+Implementation-Vendor-Id: com.anuja.ws.soap
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/hellowebservice
+Created-By: Maven Integration for Eclipse
+
